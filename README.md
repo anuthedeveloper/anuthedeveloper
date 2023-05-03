@@ -21,3 +21,16 @@ Daily ROutine
 
 
 
+   document.writeln('<table class="framed light" border>');
+   document.writeln('<tr>');
+   document.writeln('<td align="center"><a href="https://www.phpclasses.org/" title="PHP Classes" alt="PHP Classes"><img src="https://files.phpclasses.org/graphics/phpclasses/logo-small-phpclasses.svg" width="75" height="24" loading="lazy" alt="PHP Classes" style="vertical-align: top"></a><br>');
+   document.writeln('<hr>');
+   document.writeln('<b><a href="https://www.phpclasses.org/package/12835-PHP-Store-financial-data-in-SQL-server-from-Excel-file.html">Simple Coop Uploads API</a><br>');
+   document.writeln('By <a href="https://www.phpclasses.org/browse/author/1608642.html">Okanlawon Anuoluwapo</a></b><br>');
+   document.writeln('<a href="https://www.phpclasses.org/award/innovation/"><img src="https://www.phpclasses.org/award/innovation/nominee.gif" width="89" height="89" alt="PHP Programming Innovation award nominee" title="PHP Programming Innovation award nominee" border="0"></a><br><b><span style="font-size: large">April 2023<br>');
+   document.writeln('Nominee<br>');
+   document.writeln('<a href="https://www.phpclasses.org/vote.html">Vote</a></span></b></td>');
+   document.writeln('</tr>');
+   document.writeln('</table>');
+   document.writeln('');
+
