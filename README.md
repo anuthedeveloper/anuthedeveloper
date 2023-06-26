@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Okanlawon Aanuoluwapo
+## 👋 Hello, I'm Okanlawon Anuoluwapo
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+FullStack+Sofware+Engineer;Experience+Software+Developer;with+more+than+5+years+work+experience;Always+learning+new+things+😃)](https://git.io/typing-svg)
 
@@ -12,8 +12,7 @@
 
 **PHP Classes Award**
 
-<b><a href="https://www.phpclasses.org/package/12835-PHP-Store-financial-data-in-SQL-server-from-Excel-file.html">Simple Coop Uploads API</a><br>
-   By <a href="https://www.phpclasses.org/browse/author/1608642.html">Okanlawon Anuoluwapo</a></b><br>
+<b><a href="https://www.phpclasses.org/package/12835-PHP-Store-financial-data-in-SQL-server-from-Excel-file.html">Simple Coop Uploads API</a></b><br>
    <a href="https://www.phpclasses.org/award/innovation/"><img src="https://www.phpclasses.org/award/innovation/nominee.gif" width="89" height="89" alt="PHP Programming Innovation award nominee" title="PHP Programming Innovation award nominee" border="0"></a><br><b><span style="font-size: large">April 2023<br></span></b>
 
 
