@@ -3,17 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+FullStack+Sofware+Engineer;Experience+Software+Developer;with+more+than+5+years+work+experience;Always+learning+new+things+😃)](https://git.io/typing-svg)
 
 
-- 🌱 Skills: PHP / Python / Node / HTML-CSS / Javascript / UI Design / Java / ReactJs / MUI / SASS / Bootstrap / WordPress 
 - I've developed a cooperative app for financial organizations for both Public and Civil Servants. 
-- 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site during the month of April 2023, and won third position across the world.
+- 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site in April 2023 and won the third position worldwide.
 - 👯 I want to collaborate on any Backend development! ✌😁
 - 🤔 I’m looking for a job...🙏 Ready to relocate to any country.
-- 📫 How to reach me: [Twitter](https://twitter/tunsabaze) , [Linkedin](https://www.linkedin.com/in/anuoluwapo-okanlawon-30a27b1b5/),  (okanlawonanuoluwapoe@gmail.com) 
+- 📫 How to reach me: [Twitter](https://twitter/tunsabaze), [Linkedin](https://www.linkedin.com/in/anuoluwapo-okanlawon-30a27b1b5/),  (tunsabaze01@gamil.com | okanlawonanuoluwapoe@gmail.com) 
 
-Daily Routine
-- Learning new skills
-- Supporting a SaaS Project
-- Improving oneself
 
 **PHP Classes Award**
 
@@ -21,8 +16,11 @@ Daily Routine
    By <a href="https://www.phpclasses.org/browse/author/1608642.html">Okanlawon Anuoluwapo</a></b><br>
    <a href="https://www.phpclasses.org/award/innovation/"><img src="https://www.phpclasses.org/award/innovation/nominee.gif" width="89" height="89" alt="PHP Programming Innovation award nominee" title="PHP Programming Innovation award nominee" border="0"></a><br><b><span style="font-size: large">April 2023<br></span></b>
 
+
 Technologies I work with:
 
 **Development**
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="JAVA logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP logo" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel logo" width="50" height="50">&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS logo" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
 
