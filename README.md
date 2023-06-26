@@ -1,6 +1,4 @@
-## Hello, 👋!
-
-### I'm Okanlawon Aanuoluwapo
+## 👋! Hello, I'm Okanlawon Aanuoluwapo
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+FullStack+Sofware+Engineer;Experience+Software+Developer;with+more+than+5+years+work+experience;Always+learning+new+things+😃)](https://git.io/typing-svg)
 
