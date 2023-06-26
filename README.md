@@ -6,7 +6,7 @@
 - 🌱 Skills: PHP - Laravel / Python - Django / Node - Express / HTML-CSS / Javascript / UI Design / Java / ReactJs / MUI / SASS / Bootstrap / WordPress 
 - I've developed a cooperative app for financial organizations for both Public and Civil Servants. 
 - 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site during the month of April 2023, and won third position across the world.
-- 👯 I want to collaborate on a PHP Open-Source project or any Backend development! ✌😁
+- 👯 I want to collaborate on any Backend development! ✌😁
 - 🤔 I’m looking for a job...🙏 Ready to relocate to any country.
 - 📫 How to reach me: [Twitter](https://twitter/tunsabaze) , [Linkedin](https://www.linkedin.com/in/anuoluwapo-okanlawon-30a27b1b5/),  (okanlawonanuoluwapoe@gmail.com) 
 
