@@ -9,14 +9,16 @@
 - 🤔 I’m looking for a job...🙏 Ready to relocate to any country.
 - 📫 How to reach me: [Twitter](https://twitter/tunsabaze), [Linkedin](https://www.linkedin.com/in/anuoluwapo-okanlawon-30a27b1b5/),  (tunsabaze01@gamil.com | okanlawonanuoluwapoe@gmail.com) 
 
+---
 
 **PHP Classes Award**
 
 <b><a href="https://www.phpclasses.org/package/12835-PHP-Store-financial-data-in-SQL-server-from-Excel-file.html">Simple Coop Uploads API</a></b><br>
    <a href="https://www.phpclasses.org/award/innovation/"><img src="https://www.phpclasses.org/award/innovation/nominee.gif" width="89" height="89" alt="PHP Programming Innovation award nominee" title="PHP Programming Innovation award nominee" border="0"></a><br><b><span style="font-size: large">April 2023<br></span></b>
 
+---
 
-Technologies I work with:
+### Technologies I work with:
 
 **Development**
 
