@@ -7,7 +7,8 @@
 - 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site in April 2023 and won the third position worldwide.
 - 👯 I want to collaborate on any Backend development! ✌😁
 - 🤔 I’m looking for a job...🙏 Ready to relocate to any country.
-- 📫 How to reach me: [Twitter](https://twitter/tunsabaze), [Linkedin](https://www.linkedin.com/in/anuoluwapo-okanlawon-30a27b1b5/),  (tunsabaze01@gamil.com | okanlawonanuoluwapoe@gmail.com) 
+- 📫 How to reach me:
+[<img alt="twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter/tunsabaze) | [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/anuoluwapo-okanlawon-30a27b1b5/) | (tunsabaze01@gamil.com | okanlawonanuoluwapoe@gmail.com) 
 
 ---
 
