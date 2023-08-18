@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Okanlawon Anuoluwapo
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+FullStack+Sofware+Engineer;Experienced+and+Resilience;With+over+5+years+of+work+experience;Always+learning+new+things+😃)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+FullStack+Sofware+Engineer;Experienced+and+Resilience;With+over+5+years+of+work+experience)](https://git.io/typing-svg)
 
 
 - I've developed a cooperative app for financial organizations for both Public and Civil Servants. 
