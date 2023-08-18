@@ -1,12 +1,12 @@
 ## 👋 Hello, I'm Okanlawon Anuoluwapo
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+FullStack+Sofware+Engineer;Experience+Software+Developer;with+more+than+5+years+work+experience;Always+learning+new+things+😃)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+FullStack+Sofware+Engineer;Experienced+and+Resilience;With+over+5+years+of+work+experience;Always+learning+new+things+😃)](https://git.io/typing-svg)
 
 
 - I've developed a cooperative app for financial organizations for both Public and Civil Servants. 
 - 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site in April 2023 and won the third position worldwide.
-- 👯 I want to collaborate on any Backend development! ✌😁
-- 🤔 I’m looking for a job...🙏 Ready to relocate to any country.
+- 👯 I want to collaborate on any Backend or Frontend Development Project! ✌😁
+- 🤔 I’m open to any project, willing to learn and collaborate with teams...🙏 Ready to relocate to any country if needed.
 - 📫 How to reach me: tunsabaze01@gamil.com | okanlawonanuoluwapoe@gmail.com
 
   
