@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Anuoluwapo
+## 👋 Hi, I'm Anuoluwapo
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+Sofware+Engineer;Proficient+and+Resilient;With+over+5+years+of+experience)](https://git.io/typing-svg)
 
