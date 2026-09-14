@@ -1,12 +1,14 @@
 ## 👋 Hi, I'm Aanuoluwapo
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+Sofware+Engineer;Proficient+and+Resilient;With+over+5+years+of+experience)](https://git.io/typing-svg)
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+Sofware+Engineer;Proficient+and+Resilient;With+over+5+years+of+experience)](https://git.io/typing-svg)-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=false&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile;I'm+Anuoluwapo%2C+a+Software+Engineer...;Experienced+handling+Backend+%2B+Frontend+%7C+Fintech+%26+Cloud+Technologies;with+5%2B+years+building+scalable+APIs+and+UIs)](https://git.io/typing-svg)
 
 
-- I've developed a full stack application for financial organizations. 
+- Experienced handling both frontend and backend projects; collaborated with fintech companies including Peerless and BizNurture to build payment APIs, a URM microservice, and core backend services. 
 - 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site in April 2023 and won the third position worldwide.
-- 👯 I want to collaborate on any Backend or Frontend Development Project! ✌😁
-- 🤔 I’m open to any project, willing to learn and collaborate with teams...🙏 Ready to relocate to any country if needed.
+- 👯 I'd like to collaborate on any Open Source, Backend or Frontend Development Project! ✌😁
+- 🤔 I’m open to any project, willing to learn and collaborate with developers and teams...🙏 Open to relocate to any country if needed.
 - 📫 How to reach me: tunsabaze01@gamil.com | +234 703 503 3301
 
   
