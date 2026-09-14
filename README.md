@@ -23,25 +23,32 @@
 
 ---
 
-### Technologies I work with:
+### Technologies I work with
 
-**Development**
+**Backend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python / Flask" alt="Python" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="45" height="45">
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PythonFlask" alt="PythonFlask" width="50" height="50">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="50" height="50">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="50" height="50">&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript" width="50" height="50">&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Materail UI" alt="Material UI logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="TailwindCSS logo" width="50" height="50">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="50" height="50">&nbsp;&nbsp;
+**Databases & Cloud**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="45" height="45">
+
+**Frontend**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="45" height="45">
+
+**UI & Styling**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="45" height="45">&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45">
 
 
