@@ -9,7 +9,7 @@
 - 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site in April 2023 and won the third position worldwide.
 - 👯 I'd like to collaborate on any Open Source, Backend or Frontend Development Project! ✌😁
 - 🤔 I'm open to any project, to contribute, learn and collaborate with developers and teams...🙏 Open to relocate to any country if needed.
-- 📫 How to reach me: tunsabaze01@gamil.com | +234 703 503 3301
+- 📫 How to reach me: tunsabaze01@gamil.com | +234 703 503 3301 | <a href="https://myprofile-omega.vercel.app">My Profile</a>
 
   
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter/tunsabaze) &nbsp;&nbsp; [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/anuoluwapo-okanlawon-30a27b1b5/)
