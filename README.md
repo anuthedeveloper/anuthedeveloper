@@ -8,7 +8,7 @@
 - Experienced handling both frontend and backend projects; collaborated with fintech companies including Peerless and BizNurture to build payment APIs, a URM microservice, and core backend services. 
 - 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site in April 2023 and won the third position worldwide.
 - 👯 I'd like to collaborate on any Open Source, Backend or Frontend Development Project! ✌😁
-- 🤔 I'm Open to any project, to contribute, learn and collaborate with developers and teams...🙏 Open to relocate to any country if needed.
+- 🤔 I'm open to any project, to contribute, learn and collaborate with developers and teams...🙏 Open to relocate to any country if needed.
 - 📫 How to reach me: tunsabaze01@gamil.com | +234 703 503 3301
 
   
