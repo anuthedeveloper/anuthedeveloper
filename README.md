@@ -11,6 +11,12 @@
 - 🤔 I'm open to any project, to contribute, learn and collaborate with developers and teams...🙏 Open to relocate to any country if needed.
 - 📫 How to reach me: tunsabaze01@gamil.com | +234 703 503 3301 | <a href="https://myprofile-omega.vercel.app">My Profile</a>
 
+Few Built Projects
+- <a href="https://crystal-blessing-academy.vercel.app">Crystal Blessing Academy</a>
+- <a href="https://www.biznurture.com">BizNurture Financial Services Limited</a>
+- <a href="https://cochub-webapp.vercel.app">CoC Hub Platform</a>
+- amongs others ...
+
   
 [<img alt="twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter/tunsabaze) &nbsp;&nbsp; [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/anuoluwapo-okanlawon-30a27b1b5/)
 
