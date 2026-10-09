@@ -9,7 +9,7 @@
 - 🏆 My package was nominated for the PHP Programming Innovation Award on the PHP Classes site in April 2023 and won the third position worldwide.
 - 👯 I'd like to collaborate on any Open Source, Backend or Frontend Development Project! ✌😁
 - 🤔 I'm open to any project, to contribute, learn and collaborate with developers and teams...🙏 Open to relocate to any country if needed.
-- 📫 How to reach me: tunsabaze01@gamil.com | +234 703 503 3301 | <a href="https://myprofile-omega.vercel.app">My Profile</a>
+- 📫 How to reach me: tunsabaze01@gamil.com | +234 703 503 3301 | <a href="https://anuoluwapo-okanlawon.vercel.app">My Profile</a>
 
 Few Built Projects
 - <a href="https://crystal-blessing-academy.vercel.app">Crystal Blessing Academy</a>
